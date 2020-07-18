@@ -1,0 +1,39 @@
+p{
+  font-family:Times New Roman;
+  font-style: italic;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+aside{
+   padding:5px;  
+   margin:10px; 
+   height:100px; 
+   width: 40%;
+}
+body{
+    border: 5px solid black;
+}
+
+audio { 
+  width: 100%; 
+  box-shadow: 5px 5px 20px rgba(0,0, 0, 0.4);
+  border-radius: 90px;
+  transform: scale(1.05);
+}
+h2{
+  font-family:Georgia, serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: bold;
+  color:rgb(255, 0, 0);
+}
+h1{
+   border-style:dashed;
+   border-color: blue;
+   margin-right:1%;
+   margin-left: 1%;
+}
+
+ 
+  
